@@ -29,7 +29,7 @@ const App = () => {
         {/* Optional footer */}
         <footer className="bg-gray-800 text-white py-4">
           <div className="container mx-auto text-center">
-            <p>© 2023 DYPSOMCA. All rights reserved.</p>
+            <p>© 2023 EnrollHub. All rights reserved.</p>
           </div>
         </footer>
       </div>
